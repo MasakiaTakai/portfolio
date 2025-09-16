@@ -4,7 +4,7 @@
 - [Simple Python Coding](https://github.com/Masaki/simple-python-coding)  
   基本的なPythonスクリプトの練習集
 
-- [Meme Generator]([https://github.com/Masaki/meme_generator](https://github.com/MasakiaTakai/meme_generator))  
+- [Meme Generator](https://github.com/MasakiaTakai/meme_generator)  
   画像に文字を追加するPythonツール
 
 ## Web Projects
