@@ -1,1 +1,12 @@
-# portfolio
+# Masaki's Portfolio
+
+## Python Projects
+- [Simple Python Coding](https://github.com/Masaki/simple-python-coding)  
+  基本的なPythonスクリプトの練習集
+
+- [Meme Generator](https://github.com/Masaki/meme_generator)  
+  画像に文字を追加するPythonツール
+
+## Web Projects
+- [HTML & CSS Samples](https://github.com/Masaki/HTML-CSS-)  
+  HTML/CSSで作成した練習ページ集
